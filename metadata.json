@@ -1,0 +1,5 @@
+{
+  "name": "MangaMaker AI",
+  "description": "Create manga panels with consistent characters. Upload a character sheet and a pose reference to generate professional illustrations.",
+  "requestFramePermissions": []
+}
